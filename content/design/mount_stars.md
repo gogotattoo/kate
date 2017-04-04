@@ -1,6 +1,6 @@
 +++
 bodypart = ["shoulder", "arm", "chest", "leg"]
-date = "2016-03-18T06:40:00+08:00"
+date = "2017-04-04T13:00:00+08:00"
 duration_min = 400
 gender = "female"
 image_ipfs = "QmXQogMFvbGn8zmPx235VMbVKEoNJCnnrBPK798mbkhrtY"
