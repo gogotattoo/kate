@@ -1,0 +1,66 @@
+baseurl = "http://gogo.tattoo/kate/"
+languageCode = "en-us"
+title = "kate @ gogo.tattoo"
+name = "Ekaterina"
+copyright = "Ekaterina"
+googleAnalytics = "UA-79234406-1"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = "false"
+
+[Languages]
+  [Languages.en]
+    weight = 1
+  [Languages.zh]
+    weight = 3
+  [Languages.zh-hant]
+    weight = 2
+  [Languages.ru]
+    weight = 2
+
+[params]
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+[params.version]
+  name = "0.0.9-alpha"
+  code = 9
+
+[taxonomies]
+  tag = "tags"
+
+[params.profile]
+  avatar = "images/kate.jpg"
+  description = "profile.description"
+  experience = "2+ years (since 2015)"
+  location = "Shanghai"
+  origin = "St.Petersburg, Russia"
+
+  [params.profile.contact]
+    chat = "contact.chat"
+    email = "contact.email"
+    #wechat_qr = "contact.wechat_qr"
+    line = "contact.line"
+    #steemit = "contact.steemit"
+		headline = "contact.headline"
+		description = "contact.description"
+    # ... and so on...
+    # TODO: maybe there's a better way to organize it?
+
+# Navigation
+[params.nav]
+  tattoo = "nav.tattoo"
+  henna = "nav.henna"
+  design = "nav.design"
+  piercing = "nav.piercing"
+  dreadlocks = "nav.dreadlocks"
+  contact = "nav.contact"
+
+[params.navigation]
+  brand = "kate @ gogo.tattoo"
+
+  [params.navigation.links]
+    about     = "nav.about"
+    services  = "nav.services"
+    portfolio = "nav.portfolio"
+    # Contact section

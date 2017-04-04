@@ -1,0 +1,30 @@
+
+- id: contact.headline
+  translation: "Follow my public groups"
+- id: contact.description
+  translation: ""
+
+- id: contact.email
+  translation: ""
+- id: contact.chat
+  translation: ""
+- id: contact.steemit
+  translation: ""
+- id: contact.wechat_qr
+  translation: ""
+
+- id: nav.tattoo
+  translation: "Tattoo"
+- id: nav.design
+  translation: "Design"
+- id: nav.henna
+  translation: "Henna"
+- id: nav.piercing
+  translation: "Piercing"
+- id: nav.dreadlocks
+  translation: "Dreadlocks"
+- id: profile.description
+  translation: "Hello my name is Kate. I am 22 years old. I draw all my life since my childhood. More than 2 years ago, I understood that I want to do tattoos. I was studying in St. Petersburg, my teacher was famous tattoo artist, after training I started to work with him in tattoo shop.
+It is wonderful feeling  to observe as your work moving from the sheet of paper to the body and started to live it’s own life."
+- id: nav.contact
+  translation: "Contact me"
