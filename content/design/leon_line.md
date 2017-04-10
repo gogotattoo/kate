@@ -12,7 +12,7 @@ made_at_city = "Shanghai"
 made_at_country = "China"
 made_at_shop = "home "
 made_date = "2016-06-16T00:00:00+08:00"
-tags = ["leon", "line", "black tatoo"]
+tags = ["leon", "line", "black"]
 title = "Leon line"
 
 +++

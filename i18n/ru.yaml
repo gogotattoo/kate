@@ -1,0 +1,21 @@
+
+- id: contact.headline
+  translation: "Моя группа (wechat):"
+- id: contact.description
+  translation: ""
+
+- id: nav.tattoo
+  translation: "Тату"
+- id: nav.design
+  translation: "Дизайн"
+- id: nav.henna
+  translation: "Хна"
+- id: nav.piercing
+  translation: "Пирсинг"
+- id: nav.dreadlocks
+  translation: "Дреды"
+- id: profile.description
+  translation: "Меня зовут Катя. Мне 22 года. Рисую на протяжении всей жизни. Татуировками начала увлекаться, больше двух лет назад. Обучалась в Санкт Питербурге, у знаменитого мастера, вместе с ним и начала работать в тату салоне. 
+Это очень интересно наблюдать как твой рисунок, переноситься с листа на тело и начинает жить своей собственной жизнью."
+- id: nav.contact
+  translation: "Связь"
